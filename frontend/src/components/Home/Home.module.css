@@ -1,0 +1,63 @@
+.showImg{
+    /* margin:2%; */
+    width: 40%;
+    height:100px;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+   
+}
+.imgBorder{
+    margin:1% 15%  ;
+    width: 40%;
+    height:100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 10px;
+    
+}
+.styleName{
+    
+    /* font-style: italic; */
+    
+}
+
+.searchBlock{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:0.1% 20% 0.1% 1%;
+    position: -webkit-sticky;
+    position: sticky;
+    overflow:hidden;
+    top: 0;
+    background-color: white;
+}
+.showName{
+    box-shadow: 0 4px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    margin:0% 43% 0.1% 21%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 9.5%;
+}
+
+.teacherDetail{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:4px;
+}
+.teacherinputDetail{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardContain{
+    overflow:hidden;
+}
+.showDataImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:20%;
+    height:200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.block1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:2% 20%;
+    padding:2%;
+}

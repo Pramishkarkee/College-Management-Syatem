@@ -1,0 +1,68 @@
+.inputFormcss{
+    margin:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:20px 100px
+}
+.TableMargin{
+    margin-left: 10px;
+    padding:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.showImg{
+    /* margin:2%; */
+    width: 100%;
+    height:200px;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+   
+}
+.imgBorder{
+    margin:2%;
+    width: 24.1%;
+    height:270px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 30px;
+    
+}
+.styleName{
+    text-align:center;
+    /* font-style: italic; */
+    
+}
+.showDataImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:20%;
+    height:200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.block1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:2% 20%;
+    padding:2%;
+}
+.searchBlock{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:0.1% 20% 0.1% 1%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.showName{
+    box-shadow: 0 4px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    margin:0% 43% 0.1% 21%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 9.5%;
+}
+
+.teacherDetail{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:4px;
+}
+.teacherinputDetail{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

@@ -1,0 +1,46 @@
+
+ .topsid{
+   height:15% ;
+   width:100%;
+   background-color:white;
+   position: sticky;
+  position: -webkit-sticky;
+   top: 0;
+
+ }
+ .buttonsid{
+  height:85% ;
+  width:100%;
+  background-color:whitesmoke;
+  position:fixed;
+  top:15%;
+  /* overflow-x: hidden;   */
+ }
+ .left{
+  height: 100%;
+  width: 20%;
+  background-color:whitesmoke;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* margin:0% 10% 0% 0.1%; */
+  top: 0;
+  left:0;
+  overflow-x: hidden;   
+
+}
+.right{
+  height: 85%;
+  width: 80%; 
+  right:0;
+  background-color:whitesmoke;
+  position:fixed;
+  top: 15%;
+  overflow-x: hidden; 
+    
+
+ }
+ .linkButton{
+  padding:4% 10%;
+  margin:10px,0px;
+  border: none;
+  background-color: whitesmoke;
+} 
